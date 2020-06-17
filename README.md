@@ -12,7 +12,10 @@ Minhas habilidades com Desenvolvimento de sistemas, banco de dados Oracle, MSSQL
 
 Minha formação é voltada para tecnologia da informação e incluem MBA em Data Science (2019), Graduação em Gestão de Tecnologia da Informação (2018) e Sistemas de Informação (2007).
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** 
+**Data Bases:** Oracle, MSSQL, MYSQL, Postgres, NoSQL
+**Language Programmer:** Python, Node.js, C#, Delphi
+**ERP*:** SAP©, TOTVS©, Senior(Sapiens©)
 
 **Links:**
 * [Blog]()
