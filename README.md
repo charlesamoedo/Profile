@@ -27,6 +27,7 @@ Minha formação é voltada para tecnologia da informação e incluem MBA em Dat
 Veja os tutoriais publicados do Sigmoidal:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Dados, Transacionais X Analíticos:** https://medium.com/@charlesamoedo/dados-transacionais-x-anal%C3%ADticos-b97c27101298
 
 ---
 
