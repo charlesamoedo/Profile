@@ -18,9 +18,9 @@ Minha formação é voltada para tecnologia da informação e incluem MBA em Dat
 * **ERP:** SAP©, TOTVS©, Senior(Sapiens©) 
 
 **Links:**
-* [Blog]()
+* [Blog](https://www.medium.com/@charlesamoedo)
 * [LinkedIn](https://www.linkedin.com/in/charlesamoedo)
-* [Medium](https://www.medium.com)
+* [Medium](https://www.medium.com/@charlesamoedo)
 
 
 ## Projetos:
