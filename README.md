@@ -28,8 +28,7 @@ Minha formação é voltada para tecnologia da informação e incluem MBA em Dat
 Veja os tutoriais publicados:
 
 * **Dinheiro Público com Diárias e Viagens do Estado do Amazonas  :** https://tinyurl.com/y793v347
-
-
+* **Dados, Transacionais X Analíticos:** https://tinyurl.com/y8o74lfh
 
 
 
@@ -37,9 +36,7 @@ Veja os tutoriais publicados:
 Veja os tutoriais publicados do Sigmoidal:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Dados, Transacionais X Analíticos:** https://medium.com/@charlesamoedo/dados-transacionais-x-anal%C3%ADticos-b97c27101298
 
----
 
 
 
