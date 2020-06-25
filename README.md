@@ -23,7 +23,16 @@ Minha formação é voltada para tecnologia da informação e incluem MBA em Dat
 * [Medium](https://www.medium.com/@charlesamoedo)
 
 
-## Projetos:
+
+## Meus Projetos:
+Veja os tutoriais publicados:
+
+* **Dinheiro Público com Diárias e Viagens do Estado do Amazonas  :** https://tinyurl.com/y793v347
+
+
+
+
+## Projetos Iteressantes:
 Veja os tutoriais publicados do Sigmoidal:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
