@@ -35,7 +35,8 @@ Veja os tutoriais publicados:
 
 * **Dinheiro Público com Diárias e Viagens do Estado do Amazonas  :** https://tinyurl.com/y793v347
 * **Dados, Transacionais X Analíticos:** https://tinyurl.com/y8o74lfh
-* **Violência Contra Mulher Em Manaus - Amazonas** https://tinyurl.com/y5gqv8rv
+* **Dados Sobre a Violência Contra Mulher Em Manaus - Amazonas** https://tinyurl.com/yxsh52sw
+
 
 
 ## Projetos Iteressantes:
